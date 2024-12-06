@@ -82,6 +82,8 @@
           <p>Kindly fill in the form below correctly.</p>
         </div>
         <div class="col-lg-6 mx-auto">
+
+        
           <!-- form -->
           <form action="process.php" method="post" enctype="multipart/form-data">
             <div class="px-4">
