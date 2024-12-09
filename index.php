@@ -85,7 +85,7 @@
 
         
           <!-- form -->
-          <form action="process.php" method="post" enctype="multipart/form-data">
+          <form action ="process.php" method="post" enctype="multipart/form-data">
             <div class="px-4">
               <label for="first-name">First Name</label>
               <div class="input-group mb-3">
